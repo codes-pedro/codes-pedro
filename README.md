@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Back-End Developer</p>
+<p align="left">Back-End Developer💻</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me💬</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills🎯</h2>
 
 ###
 
